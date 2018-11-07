@@ -1,0 +1,8 @@
+this.x use
+
+
+void method(int x) {
+
+this.x = x;  //class member integer x  is this,x and function argument is normal x
+
+}
