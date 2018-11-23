@@ -1,0 +1,12 @@
+includes 
+GeometricObject.java
+Rectangle.java 
+Circle.java
+Main.java
+
+//relations : 
+Rectangle is a GeometricObject
+Circle is a GeometricObject
+
+
+Main.java is the driver class
