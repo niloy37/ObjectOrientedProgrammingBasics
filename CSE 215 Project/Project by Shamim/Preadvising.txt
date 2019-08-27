@@ -1,0 +1,10 @@
+1 CSE311 3 Database Systems 1 Mon Aug 26 22:40:07 BDT 2019 
+
+2 CSE331L 0 Database Systems Lab 1 Mon Aug 26 22:40:13 BDT 2019 
+
+3 MAT250 3 Calculas III 2 Mon Aug 26 22:40:29 BDT 2019 
+
+4 EEE141 3 Electronic Circuit I 2 Mon Aug 26 22:40:44 BDT 2019 
+
+5 EEE141L 1 Electronic Circuit I Lab 2 Mon Aug 26 22:40:53 BDT 2019 
+
