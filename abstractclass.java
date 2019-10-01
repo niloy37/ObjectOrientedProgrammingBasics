@@ -42,4 +42,4 @@ class thirdPhone extends secondPhone {
 	public void turnOff(){
 		System.out.println("Turning off the phone");
 	}
-}
+}//abstract
